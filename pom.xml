@@ -29,9 +29,9 @@
   </licenses>
   
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/sonar-plugins/trunk/thucydides</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/sonar-plugins/trunk/thucydides</developerConnection>
-    <url>http://svn.sonar-plugins.codehaus.org</url>
+    <connection>scm:git:git@github.com:SonarSource/sonar-thucydides.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarSource/sonar-thucydides.git</developerConnection>
+    <url>https://github.com/Sonarcommunity/sonar-thucydides</url>
   </scm>
   <developers>
     <developer>
