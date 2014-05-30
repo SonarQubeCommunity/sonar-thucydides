@@ -20,6 +20,11 @@
     <name>Patroklos PAPAPETROU</name>
   </organization>
   
+  <issueManagement>
+    <system>jira</system>
+    <url>http://jira.codehaus.org/browse/SONARPLUGINS/component/15476</url>
+  </issueManagement>
+
   <licenses>
     <license>
       <name>GNU LGPL v3</name>
